@@ -1,0 +1,68 @@
+ /* #navfixed{
+  position: fixed;
+
+ } */
+ 
+ .navspace{
+    
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-left: 30px;
+   
+}
+
+
+#collasible-nav-dropdown{
+  display: none;
+}
+
+/* about */
+#name{
+    color:rgb(189,93,56);
+    margin-top: 40px;
+    font-family: monospace;
+}
+#notes{
+    
+    font-weight: 200;
+   
+    
+} 
+#email{
+  color:rgb(189,93,56);
+ 
+  
+
+
+}
+
+/* sidebar */
+/* Custom styles for sidebar */
+#sidebar-container {
+    background-color: rgb(189,93,56); 
+    position: fixed;
+    height: 700px;
+    width: 300px;
+    margin-top: 50px;
+    
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .sidebar a:hover {
+    color: rgb(222, 130, 94);
+  }
+  
+
+
+
+
+
+
+
+  
